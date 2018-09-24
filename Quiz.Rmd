@@ -1,0 +1,60 @@
+---
+title: "Induction Quiz"
+author: "Dr. Thomas Pollet, Northumbria University (Twitter: @tvpollet)"
+date: "`r format(Sys.Date())` | [disclaimer](http://tvpollet.github.io/disclaimer)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## A Quiz.
+
+```{r, out.width = "300px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("kittiwakes.jpg") # https://stadsvogels.wordpress.com/tag/kittiwake/
+```
+
+---
+##
+
+
+---
+## Numerology
+
+Which day is my birthday? It is also the day we are hosting the BPS career event held here at Northumbria.
+
+```{r, out.width = "400px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("https://media.giphy.com/media/GXnaqmGcg1CTu/giphy.gif") 
+```
+
+---
+## Geography.
+
+What is the name of the highest peak in Northumberland at 2,676 ft (816m) ?
+
+---
+
+## Tiebreaker.
+
+The river Tyne has how many breeding pairs of kittiwakes? (Estimate according to the Natural History Society of Northumbria) 
+
+```{r, out.width = "500px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("kittiwakes.jpg") # https://stadsvogels.wordpress.com/tag/kittiwake/
+```
+
+---
+## The end
+
+```{r, out.width = "600px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("Quiz-over.jpg") # https://stadsvogels.wordpress.com/tag/kittiwake/
+```
+
