@@ -292,7 +292,7 @@ knitr::include_graphics("imitation_game.gif") # source: https://www.pinterest.co
 ---
 ## Question 16: Brains, Brains, Brains (Neuropsychology).
 
-Which brain structure is translates literally translated as 'little brain' in Latin?
+Which brain structure is literally translated as 'little brain' in Latin?
 
 ```{r, out.width = "500px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("brain.gif") # source: https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwij1JmdvL3dAhUHhxoKHUf_CN4Qjxx6BAgBEAI&url=https%3A%2F%2Farchive.4plebs.org%2Ftg%2Fthread%2F61359195%2F&psig=AOvVaw0204uV-8fwzsrZbfxZC5AN&ust=1537116609993970 
