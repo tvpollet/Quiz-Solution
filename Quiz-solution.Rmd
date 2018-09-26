@@ -505,6 +505,22 @@ knitr::include_graphics("kittiwakes.jpg") # https://stadsvogels.wordpress.com/ta
 **800 pairs**
 
 ---
+## Picture round.
+
+1. King Edward Bridge
+2. Dani Dyer
+3. Sarah Millican
+4. Ellison Building
+5. Rahul Mandal
+6. Spanish City (Whitley Bay)
+7. Owen Jones
+8. Anna Freud
+9. Bamburgh Castle
+10. Holly Hagan
+11. Victoria Pendleton
+12. Charlie Hunnam
+
+---
 ## The end
 
 ```{r, out.width = "600px", echo=FALSE, fig.align='center'}
