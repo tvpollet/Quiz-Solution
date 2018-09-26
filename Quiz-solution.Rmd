@@ -56,7 +56,7 @@ knitr::include_graphics("psychology.gif") # giphy.com
 ---
 ## Question 2: TV
 
-What is the first name of character played by the actress Kirsten Vangsness in the show 'Criminal Minds'?
+What is the first name of the character played by the actress Kirsten Vangsness in the show 'Criminal Minds'?
 
 ```{r, out.width = "500px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("criminal-minds.gif") # source: buzzfeed
