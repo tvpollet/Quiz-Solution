@@ -56,7 +56,7 @@ knitr::include_graphics("psychology.gif") # giphy.com
 ---
 ## Question 2: TV
 
-What is the first name of the character played by the actress Kirsten Vangsness in the show 'Criminal Minds'?
+What is the first name of character played by the actress Kirsten Vangsness in the show 'Criminal Minds'?
 
 ```{r, out.width = "500px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("criminal-minds.gif") # source: buzzfeed
@@ -130,8 +130,6 @@ When is my birthday? It is also when we are hosting the BPS career event held he
 ```{r, out.width = "400px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/GXnaqmGcg1CTu/giphy.gif") 
 ```
-
-17 November - presents welcome at NB165... .
 
 ---
 ## Question 8: Geography.
@@ -294,7 +292,7 @@ knitr::include_graphics("imitation_game.gif") # source: https://www.pinterest.co
 ---
 ## Question 16: Brains, Brains, Brains (Neuropsychology).
 
-Which brain structure is literally translated as 'little brain' in Latin?
+Which brain structure is translates literally translated as 'little brain' in Latin?
 
 ```{r, out.width = "500px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("brain.gif") # source: https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwij1JmdvL3dAhUHhxoKHUf_CN4Qjxx6BAgBEAI&url=https%3A%2F%2Farchive.4plebs.org%2Ftg%2Fthread%2F61359195%2F&psig=AOvVaw0204uV-8fwzsrZbfxZC5AN&ust=1537116609993970 
@@ -474,7 +472,7 @@ knitr::include_graphics("fashion.gif") # source: hausofvolta.com
 ---
 ## Question 29: Technology!
 
-At the psychology and communication technology (PaCT) Lab they conduct research focussing on human - computer interactions. Which word is missing from the following title of a recently published paper?
+At the psychology and communication technology (PaCT) Lab they conduct research focussing on human - computer interactions. Which word is missing from the following paper title of a recently published paper?
 
 McNeill, A. and Sillence, E. (2018). Motivations and stake management in producing YouTube “bro-science” videos for **X** treatment. _International Journal of Web Based Communities, 14 (2)_, 97-113. 
 
@@ -505,22 +503,6 @@ knitr::include_graphics("kittiwakes.jpg") # https://stadsvogels.wordpress.com/ta
 ```
 
 **800 pairs**
-
----
-## Picture round.
-
-1. King Edward Bridge
-2. Dani Dyer
-3. Sarah Millican
-4. Ellison Building
-5. Rahul Mandal
-6. Spanish City (Whitley Bay)
-7. Owen Jones
-8. Anna Freud
-9. Bamburgh Castle
-10. Holly Hagan
-11. Victoria Pendleton
-12. Charlie Hunnam
 
 ---
 ## The end
