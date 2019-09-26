@@ -364,6 +364,8 @@ knitr::include_graphics("black_books.gif") # source: https://www.pinterest.com/p
 
 When was Newcastle Brown ale first launched, you can be 3 years off?
 
+**1927, so 1924 to 1930**
+
 ```{r, out.width = "400px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("newcastle_brown.jpg") # source: https://picclick.co.uk/Mens-NEWCASTLE-BROWN-ALE-Printed-T-Shirt-Scottish-371149950458.html
 ```
